@@ -1,18 +1,18 @@
 # Time-series-on-store-item-demand-forecasting
 Time Series Analysis on Store Item Demand Forecasting
-Objective: 
+### Objective: 
 Predict 3 months of item sales at different stores
 The dataset is provided with 4 columns:
-date: 
+### date: 
 The date of sale
-store: 
+### store: 
 This is the store number
-item: 
+### item: 
 This is the item number
-sales: 
+### sales: 
 Sales made on that particular day
 
-Approach:
+### Approach:
 Visualise the Time series
 Decomposing into trend, seasonal, cyclical and noise components
 Analyze the seasonality of a Time Series: additive and multiplicative.
